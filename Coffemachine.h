@@ -9,6 +9,4 @@ public:
 	Coffemachine(IMakeCoffe* drinkrequest);
 	void MakeCoffe();
 	void Setrequest(IMakeCoffe* drinkrequest);
-
 };
-
